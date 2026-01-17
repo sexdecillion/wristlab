@@ -57,3 +57,5 @@ Goal: make it not stupid on battery.
 - [ ] Battery + charger integration
 - [ ] Enclosure / strap prototype
 
+## WIP: Naive early demos
+![Cold boot](images/coldboot.png)
