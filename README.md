@@ -59,3 +59,4 @@ Goal: make it not stupid on battery.
 
 ## WIP: Naive early demos
 ![Cold boot](images/coldboot.png)
+![Vulkan triangle](images/tr.jpg)
