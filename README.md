@@ -2,7 +2,7 @@
 MCU always-on + Linux wake-on-demand wearable architecture.
 
 Current dev board: Radxa ZERO 3W  
-Boot-to-shell: ~0.66s (initramfs)  
+Boot-to-shell: ~100ms (initramfs)  
 GPU: Vulkan up (first triangle rendered)  
 Display: HDMI (temporary)
 
@@ -22,7 +22,7 @@ This project is in a very early bring-up phase (POC):
 
 ### Phase 0 — Bring-up proof (DONE / in progress)
 - [x] Boot Linux on Radxa ZERO 3W
-- [x] Boot-to-shell ~0.66s using initramfs
+- [x] Boot-to-shell ~100ms using initramfs
 - [x] GPU bring-up (Vulkan first triangle), boots over Usb2Eth
 
 ### Phase 1 — Measurement harness (NEXT)
@@ -60,3 +60,4 @@ Goal: make it not stupid on battery.
 ## WIP: Naive early demos
 ![Cold boot](images/coldboot.png)
 ![Vulkan triangle](images/tr.jpg)
+![100ms boot](images/coldboot_new.png)
