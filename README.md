@@ -24,6 +24,7 @@ This project is in a very early bring-up phase (POC):
 - [x] Boot Linux on Radxa ZERO 3W
 - [x] Boot-to-shell ~100ms using initramfs
 - [x] GPU bring-up (Vulkan first triangle), boots over Usb2Eth
+- [x] U-Boot Falcon Mode
 
 ### Phase 1 — Measurement harness (NEXT)
 Goal: make progress measurable and reproducible.
